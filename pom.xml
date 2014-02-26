@@ -5,7 +5,7 @@
 
     <groupId>org.jcuda</groupId>
     <artifactId>aggregation</artifactId>
-    <version>0.4.0-beta1</version>
+    <version>0.5.5</version>
     <packaging>pom</packaging>
 
     <name>aggregation</name>
@@ -24,6 +24,13 @@
         <developer>
             <name>Marco Hutter</name>
             <email>jcuda@jcuda.org</email>
+            <roles>
+                <role>developer</role>
+            </roles>
+        </developer>
+        <developer>
+            <name>Jebb Stewart</name>
+            <email>jebb.stewart@gmail.com</email>
             <roles>
                 <role>developer</role>
             </roles>

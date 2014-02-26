@@ -13,7 +13,7 @@
     <parent>
         <groupId>org.jcuda</groupId>
         <artifactId>aggregation</artifactId>
-        <version>0.4.0-beta1</version>
+        <version>0.5.5</version>
     </parent>
     
     <dependencies>
@@ -27,11 +27,11 @@
             <artifactId>jcuda</artifactId>
             <version>${project.version}</version>
         </dependency>        
-        <dependency>
+        <!-- <dependency>
             <groupId>org.jcuda.externals</groupId>
             <artifactId>jcudpp</artifactId>
             <version>${project.version}</version>
-        </dependency>        
+        </dependency>  -->      
         <dependency>
             <groupId>org.jcuda.externals</groupId>
             <artifactId>jcufft</artifactId>
