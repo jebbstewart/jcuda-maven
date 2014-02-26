@@ -138,7 +138,7 @@
                             <file>src/main/external-files/jcuda-${project.version}.jar</file>
                         </configuration>
                     </execution>                    
-                    <execution>
+                    <!-- <execution>
                         <id>install-library-jcudpp</id>
                         <phase>install</phase>
                         <goals>
@@ -148,7 +148,7 @@
                             <artifactId>jcudpp</artifactId>
                             <file>src/main/external-files/jcudpp-${project.version}.jar</file>
                         </configuration>
-                    </execution>                    
+                    </execution>                     -->
                     <execution>
                         <id>install-library-jcufft</id>
                         <phase>install</phase>
